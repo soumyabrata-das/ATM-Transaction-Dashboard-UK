@@ -12,6 +12,3 @@ KPI cards: total transactions, total transaction amount, average transaction amo
 Charts: transactions by location, transaction type, card type and month; total transactions by type; fees charged by bank.
 Slicers: location, card type, transaction type and bank, with a reset button.
 
-**Data notes**
-
-This dataset appears to be synthetic. Category distributions are almost perfectly even, every customer ID is unique, amounts are often zero for withdrawals and present for other transaction types, and fees don’t vary with amount. Use it to practise dashboard design and DAX rather than to draw real-world conclusions about ATM usage.
